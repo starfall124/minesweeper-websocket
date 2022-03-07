@@ -1,6 +1,6 @@
 # Minesweeper
 
-Minesweeper game is played by connecting to the [websocket](wss://hometask.eg1236.com/game1/) and sending specific commands to it.
+Minesweeper game is played by connecting to the websocket `wss://hometask.eg1236.com/game1/` and sending specific commands to it.
 
 ## Tech Stack
 
