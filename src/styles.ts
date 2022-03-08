@@ -4,7 +4,8 @@ const useStyles = makeStyles({
   container: {
     minHeight: '100vh',
     paddingLeft: 20,
-    paddingRight: 20
+    paddingRight: 20,
+    paddingBottom: 20
   },
   controls: {
     display: 'flex',
