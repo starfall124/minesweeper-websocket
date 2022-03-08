@@ -15,6 +15,10 @@ Minesweeper game is played by connecting to the websocket `wss://hometask.eg1236
 - Covered with tests. Any coverage you see fit
 - [Redux-Saga event channel is used to communicate with websocket](https://redux-saga.js.org/docs/advanced/Channels/)
 
+## Demo
+
+[Demo](https://webmas0124.github.io/minesweeper-websocket/)
+
 ## Available Scripts
 
 In the project directory, you can run:
